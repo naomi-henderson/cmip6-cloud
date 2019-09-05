@@ -9,4 +9,4 @@ zarr
 dask
 cftime
 netCDF4
-toolsz
+toolz

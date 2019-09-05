@@ -7,3 +7,5 @@ gcsfs
 qgrid
 zarr
 dask
+cftime
+netCDF4

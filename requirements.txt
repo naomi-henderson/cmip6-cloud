@@ -5,3 +5,4 @@ pandas
 xarray
 gcsfs
 qgrid
+zarr

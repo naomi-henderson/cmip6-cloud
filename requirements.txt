@@ -4,3 +4,4 @@ seaborn
 pandas
 xarray
 gcsfs
+qgrid

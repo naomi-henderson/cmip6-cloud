@@ -6,3 +6,4 @@ xarray
 gcsfs
 qgrid
 zarr
+dask

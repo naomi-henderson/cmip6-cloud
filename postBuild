@@ -1,0 +1,5 @@
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install qgrid
+jupyter labextension install @jupyterlab/hub-extension
+jupyter labextension install @pyviz/jupyterlab_pyviz
+jupyter labextension install dask-labextension 
